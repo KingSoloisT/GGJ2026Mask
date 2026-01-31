@@ -1,7 +1,7 @@
 //movement
-if keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W"))
+if keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W")) 
 {
-	if global.turn = "player1" && global.player1_move > 0
+	if global.turn = "player1" && place_empty(obj_player1.x - 114, obj_player1.y - 57) && global.player1_move > 0
 	{
 		obj_player1.y -= 57;
 		obj_player1.x -= 114;
@@ -31,6 +31,8 @@ if keyboard_check_pressed(vk_up) || keyboard_check_pressed(ord("W"))
 		
 		
 }
+
+
 
 
 if keyboard_check_pressed(vk_down) || keyboard_check_pressed(ord("S"))
@@ -153,3 +155,22 @@ if global.player4_move = 0
 }
 
 //camera
+if global.turn = "player1"
+{	
+	camera_set_view_target(view_camera[0],obj_player1);
+}
+
+if global.turn = "player2"
+{	
+	camera_set_view_target(view_camera[0],obj_player2);
+}
+
+if global.turn = "player3"
+{	
+	camera_set_view_target(view_camera[0],obj_player3);
+}
+
+if global.turn = "player4"
+{	
+	camera_set_view_target(view_camera[0],obj_player4);
+}

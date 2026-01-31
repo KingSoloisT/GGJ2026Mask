@@ -14,7 +14,7 @@
   "name":"rm_battlescreen",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "path":"folders/Objects/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{
