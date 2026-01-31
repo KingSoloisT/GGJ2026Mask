@@ -26,6 +26,7 @@
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"rm_boot_up","path":"rooms/rm_boot_up/rm_boot_up.yy",},},
     {"id":{"name":"rm_gameboard","path":"rooms/rm_gameboard/rm_gameboard.yy",},},
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

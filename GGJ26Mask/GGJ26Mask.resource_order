@@ -6,5 +6,6 @@
   ],
   "ResourceOrderSettings":[
     {"name":"rm_gameboard","order":1,"path":"rooms/rm_gameboard/rm_gameboard.yy",},
+    {"name":"Script1","order":5,"path":"scripts/Script1/Script1.yy",},
   ],
 }
