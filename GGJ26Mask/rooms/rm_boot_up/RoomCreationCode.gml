@@ -36,3 +36,4 @@ global.player4_x = "";
 global.player4_y = "";
 
 //this is a test
+//FIXED ISSUE TESTING.
