@@ -2,10 +2,8 @@ global.player1_atk_a = 1;
 global.player1_atk_b = 1;
 global.player1_def_a = 1;
 global.player1_def_b = 1;
-global.player1_maxhp = 1;
 global.player1_hp = 1;
-global.player1_maxmove = 5;
-global.player1_move = 5;
+global.player1_move = 1;
 global.player1_x = 1200;
 global.player1_y = 600;
 
