@@ -34,3 +34,5 @@ global.player4_hp = 1;
 global.player4_move = 1;
 global.player4_x = "";
 global.player4_y = "";
+
+//this is a test
