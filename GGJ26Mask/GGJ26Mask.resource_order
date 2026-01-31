@@ -6,20 +6,13 @@
   ],
   "ResourceOrderSettings":[
     {"name":"font_oswald","order":6,"path":"fonts/font_oswald/font_oswald.yy",},
-    {"name":"obj_button_sword","order":7,"path":"objects/obj_button_sword/obj_button_sword.yy",},
     {"name":"obj_player1","order":1,"path":"objects/obj_player1/obj_player1.yy",},
     {"name":"obj_player2","order":2,"path":"objects/obj_player2/obj_player2.yy",},
     {"name":"obj_player3","order":3,"path":"objects/obj_player3/obj_player3.yy",},
     {"name":"obj_player4","order":4,"path":"objects/obj_player4/obj_player4.yy",},
     {"name":"rm_battlescreen","order":2,"path":"rooms/rm_battlescreen/rm_battlescreen.yy",},
     {"name":"rm_gameboard","order":1,"path":"rooms/rm_gameboard/rm_gameboard.yy",},
-
     {"name":"Script1","order":5,"path":"scripts/Script1/Script1.yy",},
     {"name":"spr_grid1","order":1,"path":"sprites/spr_grid1/spr_grid1.yy",},
-
-    {"name":"global_font","order":5,"path":"scripts/global_font/global_font.yy",},
-    {"name":"background_battle_placeholder","order":1,"path":"sprites/background_battle_placeholder/background_battle_placeholder.yy",},
-    {"name":"Sprite_Button_Red","order":2,"path":"sprites/Sprite_Button_Red/Sprite_Button_Red.yy",},
-
   ],
 }

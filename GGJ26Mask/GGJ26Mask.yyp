@@ -24,7 +24,6 @@
   "name":"GGJ26Mask",
   "resources":[
     {"id":{"name":"font_oswald","path":"fonts/font_oswald/font_oswald.yy",},},
-    {"id":{"name":"obj_button_sword","path":"objects/obj_button_sword/obj_button_sword.yy",},},
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
     {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
     {"id":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},},
@@ -33,15 +32,9 @@
     {"id":{"name":"rm_battlescreen","path":"rooms/rm_battlescreen/rm_battlescreen.yy",},},
     {"id":{"name":"rm_boot_up","path":"rooms/rm_boot_up/rm_boot_up.yy",},},
     {"id":{"name":"rm_gameboard","path":"rooms/rm_gameboard/rm_gameboard.yy",},},
-
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"spr_grid1","path":"sprites/spr_grid1/spr_grid1.yy",},},
-
-    {"id":{"name":"global_font","path":"scripts/global_font/global_font.yy",},},
-    {"id":{"name":"background_battle_placeholder","path":"sprites/background_battle_placeholder/background_battle_placeholder.yy",},},
-
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
-    {"id":{"name":"Sprite_Button_Red","path":"sprites/Sprite_Button_Red/Sprite_Button_Red.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
