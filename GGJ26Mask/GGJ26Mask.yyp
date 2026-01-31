@@ -32,6 +32,7 @@
     {"id":{"name":"rm_boot_up","path":"rooms/rm_boot_up/rm_boot_up.yy",},},
     {"id":{"name":"rm_gameboard","path":"rooms/rm_gameboard/rm_gameboard.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
