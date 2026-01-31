@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Scriptadsokjsa",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Scriptadsokjsa",
+  "parent":{
+    "name":"GGJ26Mask",
+    "path":"GGJ26Mask.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
