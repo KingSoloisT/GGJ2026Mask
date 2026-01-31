@@ -9,5 +9,5 @@ if (selected)
 }
 else
 {
-		draw_text(x, y, "Sword!")
+		draw_text(x, y, "Gun!")
 }
