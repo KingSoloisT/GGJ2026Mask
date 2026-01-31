@@ -24,6 +24,10 @@
   "name":"GGJ26Mask",
   "resources":[
     {"id":{"name":"obj_control","path":"objects/obj_control/obj_control.yy",},},
+    {"id":{"name":"obj_player1","path":"objects/obj_player1/obj_player1.yy",},},
+    {"id":{"name":"obj_player2","path":"objects/obj_player2/obj_player2.yy",},},
+    {"id":{"name":"obj_player3","path":"objects/obj_player3/obj_player3.yy",},},
+    {"id":{"name":"obj_player4","path":"objects/obj_player4/obj_player4.yy",},},
     {"id":{"name":"rm_boot_up","path":"rooms/rm_boot_up/rm_boot_up.yy",},},
     {"id":{"name":"rm_gameboard","path":"rooms/rm_gameboard/rm_gameboard.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
