@@ -31,8 +31,9 @@ global.player4_atk_e = 1;
 global.player4_def_b = 1;
 global.player4_def_e = 1;
 global.player4_hp = 1;
-global.player4_move = 3;
+global.player4_move = 2;
 global.player4_x = "";
 global.player4_y = "";
 
 //this is a test
+//FIXED ISSUE TESTING.
