@@ -1,0 +1,1 @@
+global.turn = "player1";
