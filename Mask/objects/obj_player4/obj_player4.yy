@@ -30,6 +30,7 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
+<<<<<<< Updated upstream:Mask/objects/obj_player4/obj_player4.yy
     "name":"spr_mech4",
     "path":"sprites/spr_mech4/spr_mech4.yy",
   },
@@ -37,5 +38,11 @@
     "name":"spr_player_mask",
     "path":"sprites/spr_player_mask/spr_player_mask.yy",
   },
+=======
+    "name":"spr_player",
+    "path":"sprites/spr_player/spr_player.yy",
+  },
+  "spriteMaskId":null,
+>>>>>>> Stashed changes:GGJ26Mask/objects/obj_player4/obj_player4.yy
   "visible":true,
 }

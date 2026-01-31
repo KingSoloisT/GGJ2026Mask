@@ -23,7 +23,10 @@
   },
   "name":"GGJ26Mask",
   "resources":[
+<<<<<<< Updated upstream:Mask/GGJ26Mask.yyp
     {"id":{"name":"font_oswald_1","path":"fonts/font_oswald_1/font_oswald_1.yy",},},
+=======
+>>>>>>> Stashed changes:GGJ26Mask/GGJ26Mask.yyp
     {"id":{"name":"font_oswald_2","path":"fonts/font_oswald_2/font_oswald_2.yy",},},
     {"id":{"name":"font_oswald","path":"fonts/font_oswald/font_oswald.yy",},},
     {"id":{"name":"obj_building1","path":"objects/obj_building1/obj_building1.yy",},},
