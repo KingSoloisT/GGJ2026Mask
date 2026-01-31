@@ -1,1 +1,0 @@
-global.turn = "player1";
