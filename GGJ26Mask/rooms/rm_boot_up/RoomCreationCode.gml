@@ -4,8 +4,8 @@ global.player1_def_a = 1;
 global.player1_def_b = 1;
 global.player1_hp = 1;
 global.player1_move = 1;
-global.player1_x = "";
-global.player1_y = "";
+global.player1_x = 1200;
+global.player1_y = 600;
 
 
 global.player2_atk_a = 1;
@@ -35,5 +35,10 @@ global.player4_move = 1;
 global.player4_x = "";
 global.player4_y = "";
 
+//all
+global.turn = "player1"; //pl1-4 and e
+
 //this is a test
 //FIXED ISSUE TESTING.
+
+room_goto(rm_gameboard);

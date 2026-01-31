@@ -12,5 +12,6 @@
     {"name":"rm_battlescreen","order":2,"path":"rooms/rm_battlescreen/rm_battlescreen.yy",},
     {"name":"rm_gameboard","order":1,"path":"rooms/rm_gameboard/rm_gameboard.yy",},
     {"name":"Script1","order":5,"path":"scripts/Script1/Script1.yy",},
+    {"name":"spr_grid1","order":1,"path":"sprites/spr_grid1/spr_grid1.yy",},
   ],
 }
