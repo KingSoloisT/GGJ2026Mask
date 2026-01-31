@@ -19,6 +19,7 @@ if keyboard_check_pressed(vk_down) || keyboard_check_pressed(ord("S"))
 }
 
 if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A"))
+
 {
 		if global.turn = "player1"
 	{

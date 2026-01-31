@@ -1,0 +1,1 @@
+draw_text(x.obj_button_sword, y.obj_button_sword, "Selected!")
