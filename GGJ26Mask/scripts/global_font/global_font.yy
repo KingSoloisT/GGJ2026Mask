@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Script1",
+  "%Name":"global_font",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Script1",
+  "name":"global_font",
   "parent":{
     "name":"GGJ26Mask",
     "path":"GGJ26Mask.yyp",
